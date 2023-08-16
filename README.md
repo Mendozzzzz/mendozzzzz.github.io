@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denis!</h1>
-<h3 align="center">A backend developer (in the past, a network and system administrator🙃)</h3>
 
-- 🌱 I’m currently learning: **Python, Django, Algorithms**
+- 🌱 I’m currently learning: **Python, Django, Algorithms, DB, TF...**
 
 - 📫 How to reach me:
 	- <a href="https://mendozzzzz.github.io/">Page in progress =)</a>
